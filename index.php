@@ -3,6 +3,7 @@
 <nav>
   <ul>
     <li><a href="exercise01">Exercise 01</a></li>
+    <li><a href="exercise02">Exercise 02</a></li>
   </ul>
 </nav>
 
