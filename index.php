@@ -11,6 +11,8 @@
     <li><a href="exercise07">Exercise 07</a></li>
     <li><a href="exercise08">Exercise 08</a></li>
     <li><a href="exercise09">Exercise 09</a></li>
+    <li><a href="exercise10">Exercise 10</a></li>
+    <li><a href="exercise11">Exercise 11</a></li>
   </ul>
 </nav>
 
