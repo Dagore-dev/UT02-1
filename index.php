@@ -6,6 +6,7 @@
     <li><a href="exercise02">Exercise 02</a></li>
     <li><a href="exercise03">Exercise 03</a></li>
     <li><a href="exercise04">Exercise 04</a></li>
+    <li><a href="exercise05">Exercise 05</a></li>
   </ul>
 </nav>
 
